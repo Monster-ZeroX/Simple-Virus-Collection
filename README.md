@@ -5,43 +5,43 @@ This repository is one of the few malware collections on GitHub. Almost every sa
 **I am not responsible for any damage caused by the virus inside my repository and your negligence in general.**
 
 
-1. Disable Internet Permanently
+### 1. Disable Internet Permanently
 This code will disable the internet connectivity permanently.<br />
 
 
-2. Delete Key Registry Files
+### 2. Delete Key Registry Files
 This will delete key registry files, then loops a message.<br />
 
 
-4. Popping CD Drives
+### 3. Popping CD Drives
 This will make the CD drives constantly pop out.<br />
 
 
-5. Endless Enter
+### 4. Endless Enter
 This will make the enter button pressed continuously.<br />
 
 
-6. Application Bomber
+### 5. Application Bomber
 It will start to open different applications repeatedly which will affect the system’s performance.<br />
 
 
-7.Folder Flooder
+### 6.Folder Flooder
 This will create unlimited no. of folders.<br />
 
 
-8.User Account Flooder
+### 7.User Account Flooder
 This will create large no. of the user account on one’s PC and goes on.<br />
 
 
-9.Process Creator
+### 8.Process Creator
 This will create unlimited background processes.<br />
 
 
-10.Windows Killer
+### 9.Windows Killer
 This will delete your whole C:\ drive and it really unrecoverable.<br />
 
 
-10+. Anti Virus Disabler
+### 10. Anti Virus Disabler
 This will disable any antivirus installed on the system.<br />
 
 
