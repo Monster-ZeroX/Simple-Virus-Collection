@@ -1,4 +1,4 @@
-# Simple-Virus-Collection
+# Simple Virus Collection
 
 ### Disclaimer
 This repository is one of the few malware collections on GitHub. Almost every sample here is **malicious** so I strongly recommend you to neither open these files on real hardware, nor misuse the malware to *prank* your friends.
